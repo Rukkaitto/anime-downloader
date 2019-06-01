@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python anime_downloader "$(cat ~/.config/adl/watchlist)"
